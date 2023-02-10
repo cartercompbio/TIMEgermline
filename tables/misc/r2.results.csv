@@ -1,0 +1,253 @@
+"","study","model","r2"
+"McFadden","riaz","germline PRS only",0.999999999989506
+"McFaddenAdj","riaz","germline PRS only",0.956592061190079
+"CoxSnell","riaz","germline PRS only",0.747251117943055
+"Nagelkerke","riaz","germline PRS only",0.999999999995118
+"AldrichNelson","riaz","germline PRS only",0.579010976620296
+"VeallZimmermann","riaz","germline PRS only",0.999999999995582
+"Efron","riaz","germline PRS only",1
+"McKelveyZavoina","riaz","germline PRS only",0.997975684141514
+"Tjur","riaz","germline PRS only",0.999999999985497
+"AIC","riaz","germline PRS only",4.00000000096699
+"BIC","riaz","germline PRS only",8.40938523974892
+"logLik","riaz","germline PRS only",-4.83495465886108e-10
+"logLik0","riaz","germline PRS only",-46.0745212814938
+"G2","riaz","germline PRS only",92.1490425620205
+"McFadden1","riaz","TMB",0.00586563922579297
+"McFaddenAdj1","riaz","TMB",-0.0584605223688766
+"CoxSnell1","riaz","TMB",0.00807265343604824
+"Nagelkerke1","riaz","TMB",0.0107795550701285
+"AldrichNelson1","riaz","TMB",0.00804024422432121
+"VeallZimmermann1","riaz","TMB",0.013858722278207
+"Efron1","riaz","TMB",0.00663315740717352
+"McKelveyZavoina1","riaz","TMB",0.0108456126270488
+"Tjur1","riaz","TMB",0.00722553238455448
+"AIC1","riaz","TMB",65.8183542203823
+"BIC1","riaz","TMB",69.4316791999229
+"logLik1","riaz","TMB",-30.9091771101912
+"logLik01","riaz","TMB",-31.0915489191218
+"G21","riaz","TMB",0.364743617861322
+"McFadden2","riaz","TMB/PD1/PDL1/CTLA4",0.0796098924572194
+"McFaddenAdj2","riaz","TMB/PD1/PDL1/CTLA4",-0.0812055115294543
+"CoxSnell2","riaz","TMB/PD1/PDL1/CTLA4",0.104173623221751
+"Nagelkerke2","riaz","TMB/PD1/PDL1/CTLA4",0.139104857810345
+"AldrichNelson2","riaz","TMB/PD1/PDL1/CTLA4",0.0991061282637321
+"VeallZimmermann2","riaz","TMB/PD1/PDL1/CTLA4",0.170826192508024
+"Efron2","riaz","TMB/PD1/PDL1/CTLA4",0.111140774259209
+"McKelveyZavoina2","riaz","TMB/PD1/PDL1/CTLA4",0.145313420226171
+"Tjur2","riaz","TMB/PD1/PDL1/CTLA4",0.107110235599417
+"AIC2","riaz","TMB/PD1/PDL1/CTLA4",67.2327081066843
+"BIC2","riaz","TMB/PD1/PDL1/CTLA4",76.2660205555359
+"logLik2","riaz","TMB/PD1/PDL1/CTLA4",-28.6163540533421
+"logLik02","riaz","TMB/PD1/PDL1/CTLA4",-31.0915489191218
+"G22","riaz","TMB/PD1/PDL1/CTLA4",4.95038973155933
+"McFadden3","riaz","TMB/PD1/PDL1/CTLA4+germline",0.999999999993722
+"McFaddenAdj3","riaz","TMB/PD1/PDL1/CTLA4+germline",0.807021515209714
+"CoxSnell3","riaz","TMB/PD1/PDL1/CTLA4+germline",0.74888558790289
+"Nagelkerke3","riaz","TMB/PD1/PDL1/CTLA4+germline",0.999999999997091
+"AldrichNelson3","riaz","TMB/PD1/PDL1/CTLA4+germline",0.580157684301343
+"VeallZimmermann3","riaz","TMB/PD1/PDL1/CTLA4+germline",0.999999999997364
+"Efron3","riaz","TMB/PD1/PDL1/CTLA4+germline",1
+"McKelveyZavoina3","riaz","TMB/PD1/PDL1/CTLA4+germline",0.996685320489093
+"Tjur3","riaz","TMB/PD1/PDL1/CTLA4+germline",0.999999999991329
+"AIC3","riaz","TMB/PD1/PDL1/CTLA4+germline",12.0000000003904
+"BIC3","riaz","TMB/PD1/PDL1/CTLA4+germline",22.8399749390123
+"logLik3","riaz","TMB/PD1/PDL1/CTLA4+germline",-1.95190530405398e-10
+"logLik03","riaz","TMB/PD1/PDL1/CTLA4+germline",-31.0915489191218
+"G23","riaz","TMB/PD1/PDL1/CTLA4+germline",62.1830978378532
+"McFadden4","miao","germline PRS only",0.0863329308378472
+"McFaddenAdj4","miao","germline PRS only",0.0434838680160988
+"CoxSnell4","miao","germline PRS only",0.108751758937708
+"Nagelkerke4","miao","germline PRS only",0.147666418977647
+"AldrichNelson4","miao","germline PRS only",0.103245402181117
+"VeallZimmermann4","miao","germline PRS only",0.180664854853136
+"Efron4","miao","germline PRS only",0.118920011388362
+"McKelveyZavoina4","miao","germline PRS only",0.145607678887144
+"Tjur4","miao","germline PRS only",0.114810062374341
+"AIC4","miao","germline PRS only",89.2916735157544
+"BIC4","miao","germline PRS only",93.7886639998531
+"logLik4","miao","germline PRS only",-42.6458367578772
+"logLik04","miao","germline PRS only",-46.6754665865151
+"G24","miao","germline PRS only",8.0592596572757
+"McFadden5","miao","TMB",0.0177138035762197
+"McFaddenAdj5","miao","TMB",-0.0978351968566877
+"CoxSnell5","miao","TMB",0.024229824639791
+"Nagelkerke5","miao","TMB",0.0323236905609456
+"AldrichNelson5","miao","TMB",0.0239409676086157
+"VeallZimmermann5","miao","TMB",0.0412306855871916
+"Efron5","miao","TMB",0.0224903400428791
+"McKelveyZavoina5","miao","TMB",0.0327438847451432
+"Tjur5","miao","TMB",0.0230131545261448
+"AIC5","miao","TMB",38.0041434454169
+"BIC5","miao","TMB",40.4418950951533
+"logLik5","miao","TMB",-17.0020717227085
+"logLik05","miao","TMB",-17.308674177249
+"G25","miao","TMB",0.613204909081148
+"McFadden6","miao","TMB/PD1/PDL1/CTLA4",0.0897443549782779
+"McFaddenAdj6","miao","TMB/PD1/PDL1/CTLA4",-0.19912814610399
+"CoxSnell6","miao","TMB/PD1/PDL1/CTLA4",0.116857282941183
+"Nagelkerke6","miao","TMB/PD1/PDL1/CTLA4",0.155892942261767
+"AldrichNelson6","miao","TMB/PD1/PDL1/CTLA4",0.110532731236643
+"VeallZimmermann6","miao","TMB/PD1/PDL1/CTLA4",0.190357397546101
+"Efron6","miao","TMB/PD1/PDL1/CTLA4",0.10838041369752
+"McKelveyZavoina6","miao","TMB/PD1/PDL1/CTLA4",0.193238742625181
+"Tjur6","miao","TMB/PD1/PDL1/CTLA4",0.110751549105639
+"AIC6","miao","TMB/PD1/PDL1/CTLA4",41.5106367553653
+"BIC6","miao","TMB/PD1/PDL1/CTLA4",47.6050158797063
+"logLik6","miao","TMB/PD1/PDL1/CTLA4",-15.7553183776826
+"logLik06","miao","TMB/PD1/PDL1/CTLA4",-17.308674177249
+"G26","miao","TMB/PD1/PDL1/CTLA4",3.10671159913278
+"McFadden7","miao","TMB/PD1/PDL1/CTLA4+germline",0.109198031189296
+"McFaddenAdj7","miao","TMB/PD1/PDL1/CTLA4+germline",-0.237448970109426
+"CoxSnell7","miao","TMB/PD1/PDL1/CTLA4+germline",0.140329283987159
+"Nagelkerke7","miao","TMB/PD1/PDL1/CTLA4+germline",0.187205661603959
+"AldrichNelson7","miao","TMB/PD1/PDL1/CTLA4+germline",0.131345624439557
+"VeallZimmermann7","miao","TMB/PD1/PDL1/CTLA4+germline",0.226200972034725
+"Efron7","miao","TMB/PD1/PDL1/CTLA4+germline",0.134867790011549
+"McKelveyZavoina7","miao","TMB/PD1/PDL1/CTLA4+germline",0.22489679776703
+"Tjur7","miao","TMB/PD1/PDL1/CTLA4+germline",0.136158320881078
+"AIC7","miao","TMB/PD1/PDL1/CTLA4+germline",42.8372020691929
+"BIC7","miao","TMB/PD1/PDL1/CTLA4+germline",50.1504570184021
+"logLik7","miao","TMB/PD1/PDL1/CTLA4+germline",-15.4186010345964
+"logLik07","miao","TMB/PD1/PDL1/CTLA4+germline",-17.308674177249
+"G27","miao","TMB/PD1/PDL1/CTLA4+germline",3.78014628530521
+"McFadden8","vanallen","germline PRS only",0.999999999986859
+"McFaddenAdj8","vanallen","germline PRS only",0.968479554385852
+"CoxSnell8","vanallen","germline PRS only",0.684517591807943
+"Nagelkerke8","vanallen","germline PRS only",0.999999999993013
+"AldrichNelson8","vanallen","germline PRS only",0.535672506882453
+"VeallZimmermann8","vanallen","germline PRS only",0.999999999993898
+"Efron8","vanallen","germline PRS only",1
+"McKelveyZavoina8","vanallen","germline PRS only",0.997812690554835
+"Tjur8","vanallen","germline PRS only",0.999999999982499
+"AIC8","vanallen","germline PRS only",4.00000000166756
+"BIC8","vanallen","germline PRS only",9.40096073325239
+"logLik8","vanallen","germline PRS only",-8.33779267850332e-10
+"logLik08","vanallen","germline PRS only",-63.4508796390905
+"G28","vanallen","germline PRS only",126.901759276513
+"McFadden9","vanallen","TMB",0.0621106477267142
+"McFaddenAdj9","vanallen","TMB",-0.0404914375142205
+"CoxSnell9","vanallen","TMB",0.075137568575772
+"Nagelkerke9","vanallen","TMB",0.104990001170879
+"AldrichNelson9","vanallen","TMB",0.0724510999506639
+"VeallZimmermann9","vanallen","TMB",0.130061762930929
+"Efron9","vanallen","TMB",0.0786908120212441
+"McKelveyZavoina9","vanallen","TMB",0.0962292002319468
+"Tjur9","vanallen","TMB",0.0807107679362634
+"AIC9","vanallen","TMB",40.5641438990599
+"BIC9","vanallen","TMB",43.4321183080302
+"logLik9","vanallen","TMB",-18.28207194953
+"logLik09","vanallen","TMB",-19.4927812169072
+"G29","vanallen","TMB",2.42141853475447
+"McFadden10","vanallen","TMB/PD1/PDL1/CTLA4",0.181590410180012
+"McFaddenAdj10","vanallen","TMB/PD1/PDL1/CTLA4",-0.0749148029223248
+"CoxSnell10","vanallen","TMB/PD1/PDL1/CTLA4",0.204168564323817
+"Nagelkerke10","vanallen","TMB/PD1/PDL1/CTLA4",0.285285486524594
+"AldrichNelson10","vanallen","TMB/PD1/PDL1/CTLA4",0.185911634084829
+"VeallZimmermann10","vanallen","TMB/PD1/PDL1/CTLA4",0.33374227437414
+"Efron10","vanallen","TMB/PD1/PDL1/CTLA4",0.206449699871936
+"McKelveyZavoina10","vanallen","TMB/PD1/PDL1/CTLA4",0.28242521902905
+"Tjur10","vanallen","TMB/PD1/PDL1/CTLA4",0.216100643337694
+"AIC10","vanallen","TMB/PD1/PDL1/CTLA4",41.9061581603596
+"BIC10","vanallen","TMB/PD1/PDL1/CTLA4",49.0760941827853
+"logLik10","vanallen","TMB/PD1/PDL1/CTLA4",-15.9530790801798
+"logLik010","vanallen","TMB/PD1/PDL1/CTLA4",-19.4927812169072
+"G210","vanallen","TMB/PD1/PDL1/CTLA4",7.07940427345481
+"McFadden11","vanallen","TMB/PD1/PDL1/CTLA4+germline",0.999999999993659
+"McFaddenAdj11","vanallen","TMB/PD1/PDL1/CTLA4+germline",0.692193744270855
+"CoxSnell11","vanallen","TMB/PD1/PDL1/CTLA4+germline",0.715664041695193
+"Nagelkerke11","vanallen","TMB/PD1/PDL1/CTLA4+germline",0.999999999996832
+"AldrichNelson11","vanallen","TMB/PD1/PDL1/CTLA4+germline",0.557051498594066
+"VeallZimmermann11","vanallen","TMB/PD1/PDL1/CTLA4+germline",0.999999999997191
+"Efron11","vanallen","TMB/PD1/PDL1/CTLA4+germline",1
+"McKelveyZavoina11","vanallen","TMB/PD1/PDL1/CTLA4+germline",0.996042372956835
+"Tjur11","vanallen","TMB/PD1/PDL1/CTLA4+germline",0.999999999991775
+"AIC11","vanallen","TMB/PD1/PDL1/CTLA4+germline",12.0000000002472
+"BIC11","vanallen","TMB/PD1/PDL1/CTLA4+germline",20.6039232271581
+"logLik11","vanallen","TMB/PD1/PDL1/CTLA4+germline",-1.23599797063889e-10
+"logLik011","vanallen","TMB/PD1/PDL1/CTLA4+germline",-19.4927812169072
+"G211","vanallen","TMB/PD1/PDL1/CTLA4+germline",38.9855624335672
+"McFadden12","hugo","germline PRS only",0.999999999993433
+"McFaddenAdj12","hugo","germline PRS only",0.923455746552427
+"CoxSnell12","hugo","germline PRS only",0.747209317647825
+"Nagelkerke12","hugo","germline PRS only",0.999999999996945
+"AldrichNelson12","hugo","germline PRS only",0.578981665934713
+"VeallZimmermann12","hugo","germline PRS only",0.999999999997235
+"Efron12","hugo","germline PRS only",1
+"McKelveyZavoina12","hugo","germline PRS only",0.996717441034586
+"Tjur12","hugo","germline PRS only",0.999999999990987
+"AIC12","hugo","germline PRS only",4.00000000034318
+"BIC12","hugo","germline PRS only",7.27517231979595
+"logLik12","hugo","germline PRS only",-1.71588965258707e-10
+"logLik012","hugo","germline PRS only",-26.1286760284551
+"G212","hugo","germline PRS only",52.257352056567
+"McFadden13","hugo","TMB",0.0645589526306516
+"McFaddenAdj13","hugo","TMB",-0.046893776099959
+"CoxSnell13","hugo","TMB",0.0852599283188756
+"Nagelkerke13","hugo","TMB",0.113905459438211
+"AldrichNelson13","hugo","TMB",0.0818235923948569
+"VeallZimmermann13","hugo","TMB",0.141100099600019
+"Efron13","hugo","TMB",0.071459589203633
+"McKelveyZavoina13","hugo","TMB",0.317284992704684
+"Tjur13","hugo","TMB",0.0725552403427004
+"AIC13","hugo","TMB",37.5726566060263
+"BIC13","hugo","TMB",40.0888496820693
+"logLik13","hugo","TMB",-16.7863283030131
+"logLik013","hugo","TMB",-17.9448275764889
+"G213","hugo","TMB",2.31699854695152
+"McFadden14","hugo","TMB/PD1/PDL1/CTLA4",0.0732352940732395
+"McFaddenAdj14","hugo","TMB/PD1/PDL1/CTLA4",-0.205396527753287
+"CoxSnell14","hugo","TMB/PD1/PDL1/CTLA4",0.096150036457219
+"Nagelkerke14","hugo","TMB/PD1/PDL1/CTLA4",0.128454413387485
+"AldrichNelson14","hugo","TMB/PD1/PDL1/CTLA4",0.0918105943042608
+"VeallZimmermann14","hugo","TMB/PD1/PDL1/CTLA4",0.158322112504589
+"Efron14","hugo","TMB/PD1/PDL1/CTLA4",0.0811269256780023
+"McKelveyZavoina14","hugo","TMB/PD1/PDL1/CTLA4",0.290200991238861
+"Tjur14","hugo","TMB/PD1/PDL1/CTLA4",0.0833299737934708
+"AIC14","hugo","TMB/PD1/PDL1/CTLA4",43.2612657036623
+"BIC14","hugo","TMB/PD1/PDL1/CTLA4",49.5517483937697
+"logLik14","hugo","TMB/PD1/PDL1/CTLA4",-16.6306328518312
+"logLik014","hugo","TMB/PD1/PDL1/CTLA4",-17.9448275764889
+"G214","hugo","TMB/PD1/PDL1/CTLA4",2.62838944931548
+"McFadden15","hugo","TMB/PD1/PDL1/CTLA4+germline",0.999999999993894
+"McFaddenAdj15","hugo","TMB/PD1/PDL1/CTLA4+germline",0.665641813802062
+"CoxSnell15","hugo","TMB/PD1/PDL1/CTLA4+germline",0.748514853801933
+"Nagelkerke15","hugo","TMB/PD1/PDL1/CTLA4+germline",0.999999999997168
+"AldrichNelson15","hugo","TMB/PD1/PDL1/CTLA4+germline",0.579897481480133
+"VeallZimmermann15","hugo","TMB/PD1/PDL1/CTLA4+germline",0.999999999997435
+"Efron15","hugo","TMB/PD1/PDL1/CTLA4+germline",1
+"McKelveyZavoina15","hugo","TMB/PD1/PDL1/CTLA4+germline",0.996613097968148
+"Tjur15","hugo","TMB/PD1/PDL1/CTLA4+germline",0.99999999999158
+"AIC15","hugo","TMB/PD1/PDL1/CTLA4+germline",12.0000000002191
+"BIC15","hugo","TMB/PD1/PDL1/CTLA4+germline",19.548579228348
+"logLik15","hugo","TMB/PD1/PDL1/CTLA4+germline",-1.09569242567886e-10
+"logLik015","hugo","TMB/PD1/PDL1/CTLA4+germline",-17.9448275764889
+"G215","hugo","TMB/PD1/PDL1/CTLA4+germline",35.8896551527587
+"McFadden16","rizvi","germline PRS only",0.112325688405606
+"McFaddenAdj16","rizvi","germline PRS only",0.0217231801813667
+"CoxSnell16","rizvi","germline PRS only",0.135716584539753
+"Nagelkerke16","rizvi","germline PRS only",0.186665364208801
+"AldrichNelson16","rizvi","germline PRS only",0.127288876666391
+"VeallZimmermann16","rizvi","germline PRS only",0.225316754374069
+"Efron16","rizvi","germline PRS only",0.140953670499478
+"McKelveyZavoina16","rizvi","germline PRS only",0.183885232659716
+"Tjur16","rizvi","germline PRS only",0.141030486744252
+"AIC16","rizvi","germline PRS only",43.1898338795396
+"BIC16","rizvi","germline PRS only",46.2425549287719
+"logLik16","rizvi","germline PRS only",-19.5949169397698
+"logLik016","rizvi","germline PRS only",-22.0744440656105
+"G216","rizvi","germline PRS only",4.95905425168151
+"McFadden17","snyder","germline PRS only",0.999999999985854
+"McFaddenAdj17","snyder","germline PRS only",0.954104186294352
+"CoxSnell17","snyder","germline PRS only",0.743795666338949
+"Nagelkerke17","snyder","germline PRS only",0.999999999993365
+"AldrichNelson17","snyder","germline PRS only",0.576590533076326
+"VeallZimmermann17","snyder","germline PRS only",0.99999999999401
+"Efron17","snyder","germline PRS only",1
+"McKelveyZavoina17","snyder","germline PRS only",0.998591176854317
+"Tjur17","snyder","germline PRS only",0.999999999980526
+"AIC17","snyder","germline PRS only",4.00000000123284
+"BIC17","snyder","germline PRS only",8.31776616795218
+"logLik17","snyder","germline PRS only",-6.16420692267639e-10
+"logLik017","snyder","germline PRS only",-43.5769591850658
+"G217","snyder","germline PRS only",87.1539183688988
