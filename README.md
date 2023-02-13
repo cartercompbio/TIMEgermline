@@ -69,6 +69,8 @@ All libraries listed in the notebooks will need to be installed for proper funct
 | Fig. 6 - TIME SNP landscape | [Jupyter notebook](notebooks/fig6-snp_unification_VEP_processing.ipynb) | Landscape of TIME SNPs and immune cell specific relevance |
 | Fig. 7 - Clinical relevance | [Rscript](notebooks/GermlineImmunePlots.R) | Clinical relevance of curated high-impact SNPs and availability of molecular inhibitors |
 
+| Content | Files | Description |
+|---|---|---|
 | Mega snp table | [Table](tables/snp_tables/megasnptable.txt) <br> [Jupyter notebook](figures_and_tables/table-multisurv_evaluation.ipynb) <br> [`results.csv`](figures_and_tables/results.csv) | Baseline model evaluation <br> MultiSurv evaluation <br> Result table |
 
 Other supplementary tables can be found in the  [`tables`](tables/) directory.
@@ -79,11 +81,4 @@ This project is licensed under the terms of the
 [MIT](https://tldrlegal.com/license/mit-license) license. See
 [LICENSE](LICENSE) file for details.
 
-# TIMEgermline
-  Reproducibility of "Germline modifiers of the tumor immune microenvironment implicate drivers of cancer risk and immunotherapy response"
 
-## Contents:
-  1. Germline TIME SNPs
-  2. Cancer Risk and TCGA infiltration model
-  3. Cancer OS and PFS model
-  4. ICI response prediction model
