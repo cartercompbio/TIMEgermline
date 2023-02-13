@@ -1,0 +1,794 @@
+0,ACE,antigen present,
+1,ACTR10,antigen present,
+2,ACTR1A,antigen present,
+3,ACTR1B,antigen present,
+4,AP1B1,antigen present,
+5,AP1G1,antigen present,
+6,AP1M1,antigen present,
+7,AP1M2,antigen present,
+8,AP1S1,antigen present,
+9,AP1S2,antigen present,
+10,AP1S3,antigen present,
+11,AP2A1,antigen present,
+12,AP2A2,antigen present,
+13,AP2B1,antigen present,
+14,AP2M1,antigen present,
+15,AP2S1,antigen present,
+16,AP3B1,antigen present,
+17,AP3D1,antigen present,
+18,ARF1,antigen present,
+19,ATG5,antigen present,
+20,AZGP1,antigen present,
+21,B2M,immunomodulators,CSF1_response
+22,BCAP31,antigen present,
+23,CALR,antigen present,
+24,CANX,antigen present,
+25,CAPZA1,antigen present,
+26,CAPZA2,antigen present,
+27,CAPZA3,antigen present,
+28,CAPZB,antigen present,
+29,CCL19,antigen present,
+30,CCL21,antigen present,
+31,CCR7,antigen present,
+32,CD1A,antigen present,
+33,CD1B,antigen present,
+34,CD1C,antigen present,
+35,CD1D,antigen present,
+36,CD1E,antigen present,
+37,CD207,antigen present,
+38,CD209,cell type,
+39,CD36,antigen present,
+40,CD68,cell type,
+41,CD74,antigen present,
+42,CD8A,cell type,CSF1_response
+43,CENPE,antigen present,
+44,CHUK,antigen present,
+45,CLEC4A,antigen present,
+46,CLEC4M,antigen present,
+47,CLTA,antigen present,
+48,CLTC,antigen present,
+49,CTSD,antigen present,
+50,CTSE,antigen present,
+51,CTSF,antigen present,
+52,CTSH,antigen present,
+53,CTSL,immunomodulators,CSF1_response
+54,CTSS,immunomodulators,CSF1_response
+55,CTSV,antigen present,
+56,CYBA,antigen present,
+57,CYBB,immunomodulators,CSF1_response
+58,DCTN1,antigen present,
+59,DCTN2,antigen present,
+60,DCTN3,antigen present,
+61,DCTN4,antigen present,
+62,DCTN5,antigen present,
+63,DCTN6,antigen present,
+64,DNM2,antigen present,
+65,DYNC1H1,antigen present,
+66,DYNC1I1,antigen present,
+67,DYNC1I2,antigen present,
+68,DYNC1LI1,antigen present,
+69,DYNC1LI2,antigen present,
+70,DYNLL1,antigen present,
+71,DYNLL2,antigen present,
+72,ERAP1,antigen present,
+73,ERAP2,antigen present,
+74,FCER1G,immunomodulators,CSF1_response
+75,FCGR1A,immunomodulators,CSF1_response
+76,FCGR1B,antigen present,
+77,FCGR2B,immunomodulators,CSF1_response
+78,FCGRT,antigen present,
+79,FGL2,immunomodulators,CSF1_response
+80,HFE,antigen present,
+81,HLA.DMA,antigen present,
+82,HLA.DMB,antigen present,
+83,HLA.DOA,antigen present,
+84,HLA.DOB,antigen present,
+85,HLA.DPA1,antigen present,
+86,HLA.DPB1,antigen present,
+87,HLA.DQA1,antigen present,
+88,HLA.DQA2,antigen present,
+89,HLA.DQB1,antigen present,
+90,HLA.DQB2,antigen present,
+91,HLA.DRA,antigen present,
+92,HLA.DRB1,antigen present,
+93,HLA.DRB3,antigen present,
+94,HLA.DRB4,antigen present,
+95,HLA.DRB5,antigen present,
+96,HLA.E,antigen present,
+97,HLA.F,antigen present,
+98,HLA.G,antigen present,
+99,HLA.H,antigen present,
+100,ICAM1,immune checkpoint,TGFB_score_21050467
+101,IDE,antigen present,
+102,IFI30,immunomodulators,CSF1_response
+103,IKBKB,antigen present,
+104,IKBKG,antigen present,
+105,ITGAV,antigen present,
+106,ITGB5,immunomodulators,TGFB_score_21050467
+107,KIF11,antigen present,
+108,KIF15,antigen present,
+109,KIF18A,antigen present,
+110,KIF22,antigen present,
+111,KIF23,antigen present,
+112,KIF26A,antigen present,
+113,KIF2A,antigen present,
+114,KIF2B,antigen present,
+115,KIF2C,antigen present,
+116,KIF3A,antigen present,
+117,KIF3B,antigen present,
+118,KIF3C,antigen present,
+119,KIF4A,antigen present,
+120,KIF4B,antigen present,
+121,KIF5A,antigen present,
+122,KIFAP3,antigen present,
+123,KLC1,antigen present,
+124,KLC2,antigen present,
+125,LAG3,immune checkpoint,
+126,LGMN,antigen present,
+127,LILRB2,antigen present,
+128,LNPEP,antigen present,
+129,MARCHF1,antigen present,
+130,MICA,immune checkpoint,
+131,MICB,immune checkpoint,
+132,MR1,antigen present,
+133,NCF1,antigen present,
+134,NCF2,immunomodulators,CSF1_response
+135,NCF4,antigen present,
+136,NOD1,antigen present,
+137,NOD2,antigen present,
+138,OSBPL1A,antigen present,
+139,PDIA3,antigen present,
+140,PSMA1,antigen present,
+141,PSMA2,antigen present,
+142,PSMA3,antigen present,
+143,PSMA4,antigen present,
+144,PSMA5,antigen present,
+145,PSMA6,antigen present,
+146,PSMA7,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+147,PSMA8,antigen present,
+148,PSMB1,antigen present,
+149,PSMB10,antigen present,
+150,PSMB11,antigen present,
+151,PSMB2,antigen present,
+152,PSMB3,antigen present,
+153,PSMB4,antigen present,
+154,PSMB5,antigen present,
+155,PSMB6,antigen present,
+156,PSMB7,antigen present,
+157,PSMB8,antigen present,
+158,PSMB9,antigen present,
+159,PSMC1,antigen present,
+160,PSMC2,antigen present,
+161,PSMC3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+162,PSMC4,antigen present,
+163,PSMC5,antigen present,
+164,PSMC6,antigen present,
+165,PSMD1,antigen present,
+166,PSMD10,antigen present,
+167,PSMD11,antigen present,
+168,PSMD12,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+169,PSMD13,antigen present,
+170,PSMD14,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+171,PSMD2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+172,PSMD3,antigen present,
+173,PSMD4,antigen present,
+174,PSMD5,antigen present,
+175,PSMD6,antigen present,
+176,PSMD7,antigen present,
+177,PSMD8,antigen present,
+178,PSMD9,antigen present,
+179,PSME1,antigen present,
+180,PSME2,antigen present,
+181,PSME3,antigen present,
+182,PSME4,antigen present,
+183,PSMF1,antigen present,
+184,PYCARD,antigen present,
+185,RAB10,antigen present,
+186,RAB27A,antigen present,
+187,RAB32,antigen present,
+188,RAB33A,antigen present,
+189,RAB34,antigen present,
+190,RAB35,antigen present,
+191,RAB3B,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+192,RAB3C,antigen present,
+193,RAB4A,antigen present,
+194,RAB5B,antigen present,
+195,RAB6A,antigen present,
+196,RAB7A,antigen present,
+197,RAB8B,antigen present,
+198,RACGAP1,antigen present,
+199,RELB,antigen present,
+200,RFTN1,antigen present,
+201,RILP,antigen present,
+202,SAR1B,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+203,SEC13,antigen present,
+204,SEC22B,antigen present,
+205,SEC23A,antigen present,
+206,SEC24A,antigen present,
+207,SEC24B,antigen present,
+208,SEC24C,antigen present,
+209,SEC24D,antigen present,
+210,SEC31A,antigen present,
+211,SH3GL2,antigen present,
+212,SLC11A1,antigen present,
+213,SNAP23,antigen present,
+214,SPTBN2,antigen present,
+215,TAP1,immunomodulators,Module3_IFN_score
+216,TAP2,antigen present,
+217,TAPBP,antigen present,
+218,TAPBPL,antigen present,
+219,THBS1,immunomodulators,TGFB_score_21050467
+220,TRAF6,antigen present,
+221,TREM2,antigen present,
+222,TREX1,antigen present,
+223,VAMP3,antigen present,
+224,VAMP8,antigen present,
+225,WAS,antigen present,
+226,YTHDF1,antigen present,
+227,MARCH1,antigen present,
+228,FGR,immunomodulators,CSF1_response
+229,SEMA3F,immunomodulators,TGFB_score_21050467
+230,DBNDD1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+231,SLC25A5,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+232,WDR54,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+233,ITGA3,immunomodulators,TGFB_score_21050467
+234,TNFRSF12A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+235,CD79B,immunomodulators,LIexpression_score
+236,VTA1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+237,BTK,immunomodulators,CSF1_response
+238,PLAUR,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+239,MNAT1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+240,RUNX3,immunomodulators,CSF1_response
+241,CD44,immunomodulators,TGFB_score_21050467
+242,TNFRSF1B,immunomodulators,CSF1_response
+243,VCAN,immunomodulators,TGFB_score_21050467
+244,TNC,immunomodulators,TGFB_score_21050467
+245,LCP2,immunomodulators,CSF1_response
+246,CTNNA1,immunomodulators,TGFB_score_21050467
+247,NOP16,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+248,CELF2,immunomodulators,CSF1_response
+249,MRTO4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+250,DCBLD2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+251,TBXAS1,immunomodulators,CSF1_response
+252,CD84,cell type,CSF1_response
+253,LRRC40,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+254,PFKP,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+255,NEO1,immunomodulators,TGFB_score_21050467
+256,TNFRSF1A,immunomodulators,TGFB_score_21050467
+257,RHOA,immunomodulators,TGFB_score_21050467
+258,OSBPL3,immunomodulators,CSF1_response
+259,ENO1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+260,WNT8B,immunomodulators,TGFB_score_21050467
+261,SLC25A40,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+262,ARHGAP15,immunomodulators,CSF1_response
+263,SNRPA,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+264,SLC1A3,immunomodulators,CSF1_response
+265,SP140,immunomodulators,CSF1_response
+266,SAR1A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+267,PTPRC,cell type,CSF1_response
+268,HSPB11,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+269,FYB,immunomodulators,CSF1_response
+270,COL16A1,immunomodulators,TGFB_score_21050467
+271,CD59,immunomodulators,TGFB_score_21050467
+272,EIF2AK1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+273,MMP2,immunomodulators,TGFB_score_21050467
+274,MT3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+275,OAS1,immunomodulators,Module3_IFN_score
+276,PXN,immunomodulators,TGFB_score_21050467
+277,LYZ,immunomodulators,CSF1_response
+278,LAMB1,immunomodulators,TGFB_score_21050467
+279,ITGA6,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+280,EZR,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+281,MYL6,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+282,MFSD11,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+283,CECR1,immunomodulators,CSF1_response
+284,DSP,immunomodulators,TGFB_score_21050467
+285,MMP11,immunomodulators,TGFB_score_21050467
+286,POLE2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+287,MTHFD1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+288,PNN,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+289,MYBL2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+290,RASSF2,immunomodulators,CSF1_response
+291,HCK,immunomodulators,CSF1_response
+292,SAMHD1,immunomodulators,CSF1_response
+293,MAPRE1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+294,SMS,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+295,TIMP1,immunomodulators,TGFB_score_21050467
+296,FGD1,immunomodulators,TGFB_score_21050467
+297,TNFSF13B,immunomodulators,CSF1_response
+298,CORO1A,immunomodulators,CSF1_response
+299,NUTF2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+300,NUP93,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+301,CMC2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+302,COTL1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+303,PLAT,immunomodulators,TGFB_score_21050467
+304,CD37,immunomodulators,LIexpression_score
+305,CD79A,immunomodulators,LIexpression_score
+306,CD33,immunomodulators,CSF1_response
+307,PIK3CG,immunomodulators,CSF1_response
+308,ITGB8,immunomodulators,TGFB_score_21050467
+309,MET,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+310,CPVL,immunomodulators,CSF1_response
+311,PDAP1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+312,NUDT1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+313,AIMP2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+314,SERPINE1,immunomodulators,TGFB_score_21050467
+315,DDX58,immunomodulators,Module3_IFN_score
+316,DVL1,immunomodulators,TGFB_score_21050467
+317,RASSF4,immunomodulators,CSF1_response
+318,ERLIN1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+319,BCCIP,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+320,MAP3K8,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+321,GLRX3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+322,CBX1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+323,PFN1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+324,CCL2,immunomodulators,CSF1_response
+325,SMURF2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+326,CTSC,immunomodulators,CSF1_response
+327,IL10RA,immunomodulators,CSF1_response
+328,SELPLG,immunomodulators,CSF1_response
+329,CORO1C,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+330,MAGOHB,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+331,SH2B3,immunomodulators,CSF1_response
+332,OAS3,immunomodulators,Module3_IFN_score
+333,OAS2,immunomodulators,Module3_IFN_score
+334,NUP107,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+335,KRR1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+336,TPI1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+337,GNPTAB,immunomodulators,CSF1_response
+338,MCM3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+339,GPLD1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+340,LAMA4,immunomodulators,TGFB_score_21050467
+341,LY86,immunomodulators,CSF1_response
+342,SPARC,immunomodulators,TGFB_score_21050467
+343,CDH6,immunomodulators,TGFB_score_21050467
+344,CPEB4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+345,CD86,immunomodulators,CSF1_response
+346,UMPS,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+347,EIF4G1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+348,CYTIP,immunomodulators,CSF1_response
+349,ITGA4,immunomodulators,TGFB_score_21050467
+350,SNX17,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+351,IFIH1,immunomodulators,Module3_IFN_score
+352,FN1,immunomodulators,TGFB_score_21050467
+353,STAT1,IFNG,Module3_IFN_score
+354,IGFBP2,immunomodulators,TGFB_score_21050467
+355,IGFBP5,immunomodulators,TGFB_score_21050467
+356,ID2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+357,SDC1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+358,WIPF1,immunomodulators,CSF1_response
+359,PNO1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+360,PLEK,immunomodulators,CSF1_response
+361,RND3,immunomodulators,TGFB_score_21050467
+362,FARSB,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+363,MRPL37,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+364,WDR77,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+365,SRM,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+366,NID1,immunomodulators,TGFB_score_21050467
+367,CD48,immunomodulators,CSF1_response
+368,UAP1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+369,ID3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+370,EBNA1BP2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+371,F3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+372,C1orf54,immunomodulators,CSF1_response
+373,LRMP,immunomodulators,CSF1_response
+374,TNFAIP3,immunomodulators,CSF1_response
+375,DCLRE1B,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+376,PHF19,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+377,NPC2,immunomodulators,CSF1_response
+378,RHOQ,immunomodulators,TGFB_score_21050467
+379,IFIT3,immunomodulators,Module3_IFN_score
+380,IFIT2,immunomodulators,Module3_IFN_score
+381,EXOSC8,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+382,ADCY7,immunomodulators,CSF1_response
+383,CCRL2,immunomodulators,CSF1_response
+384,CXCR4,immunomodulators,CSF1_response
+385,PLG,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+386,HNRNPA2B1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+387,ADGRE5,immunomodulators,CSF1_response
+388,SPRYD7,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+389,NLN,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+390,NCKAP1L,immunomodulators,CSF1_response
+391,MMP19,immunomodulators,TGFB_score_21050467
+392,CDK2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+393,LRP1,immunomodulators,TGFB_score_21050467
+394,SNRPC,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+395,RPP40,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+396,NUP85,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+397,ALKBH7,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+398,SNRPB,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+399,MKKS,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+400,NCLN,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+401,HNRNPR,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+402,IFI6,immunomodulators,Module3_IFN_score
+403,EVI2A,immunomodulators,CSF1_response
+404,TUBA4A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+405,GNG11,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+406,PAICS,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+407,FLNC,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+408,SMO,immunomodulators,TGFB_score_21050467
+409,LRRC17,immunomodulators,TGFB_score_21050467
+410,DUT,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+411,APOE,immunomodulators,CSF1_response
+412,TOMM40,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+413,APOC1,immunomodulators,CSF1_response
+414,LSM4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+415,MPP1,immunomodulators,CSF1_response
+416,TUBG1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+417,SNRPA1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+418,JCHAIN,immunomodulators,LIexpression_score
+419,USPL1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+420,ALOX5AP,immunomodulators,CSF1_response
+421,RFC3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+422,EPHB2,immunomodulators,TGFB_score_21050467
+423,GIMAP4,immunomodulators,CSF1_response
+424,AMPD3,immunomodulators,CSF1_response
+425,LOXL2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+426,WNT2B,immunomodulators,TGFB_score_21050467
+427,NOTCH2,immunomodulators,TGFB_score_21050467
+428,RSAD2,immunomodulators,Module3_IFN_score
+429,DOCK2,immunomodulators,CSF1_response
+430,RNF138,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+431,OASL,immunomodulators,Module3_IFN_score
+432,RGS8,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+433,NPL,immunomodulators,CSF1_response
+434,NUDT15,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+435,LCP1,immunomodulators,CSF1_response
+436,GPNMB,immunomodulators,CSF1_response
+437,RAC1,immunomodulators,TGFB_score_21050467
+438,BRIP1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+439,RTP4,immunomodulators,Module3_IFN_score
+440,ACTL6A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+441,TRA2B,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+442,IMP4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+443,SMC2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+444,TLR2,immunomodulators,CSF1_response
+445,GGH,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+446,DDX60,immunomodulators,Module3_IFN_score
+447,CASP1,immunomodulators,CSF1_response
+448,CCBL2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+449,IFI44L,immunomodulators,Module3_IFN_score
+450,IFI44,immunomodulators,Module3_IFN_score
+451,CENPO,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+452,COX17,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+453,HERC6,immunomodulators,Module3_IFN_score
+454,HERC5,immunomodulators,Module3_IFN_score
+455,GSTCD,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+456,BRCA2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+457,TPM1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+458,ARRB2,immunomodulators,CSF1_response
+459,ARHGDIA,immunomodulators,TGFB_score_21050467
+460,IGFBP4,immunomodulators,TGFB_score_21050467
+461,COL6A1,immunomodulators,TGFB_score_21050467
+462,MYO1F,immunomodulators,CSF1_response
+463,EPHA2,immunomodulators,TGFB_score_21050467
+464,PLK4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+465,HSPG2,immunomodulators,TGFB_score_21050467
+466,CD53,immunomodulators,CSF1_response
+467,FCGR2A,immunomodulators,CSF1_response
+468,TPM3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+469,RHOB,immunomodulators,TGFB_score_21050467
+470,TPRKB,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+471,COL8A1,immunomodulators,TGFB_score_21050467
+472,NCEH1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+473,LYAR,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+474,LHFPL2,immunomodulators,CSF1_response
+475,RMND5B,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+476,DYNLT1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+477,IGFBP3,immunomodulators,TGFB_score_21050467
+478,MSN,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+479,MRPS28,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+480,CEP78,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+481,TCF7L2,immunomodulators,TGFB_score_21050467
+482,PAK1,immunomodulators,TGFB_score_21050467
+483,CHEK1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+484,TAGLN,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+485,MMP3,immunomodulators,TGFB_score_21050467
+486,CCT5,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+487,IL18,immunomodulators,CSF1_response
+488,TEX30,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+489,FLI1,immunomodulators,CSF1_response
+490,CENPU,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+491,CENPJ,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+492,HAUS1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+493,MARVELD2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+494,PLOD2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+495,MERTK,immunomodulators,CSF1_response
+496,PITPNC1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+497,FAM167A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+498,TCEB1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+499,ADAMTS1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+500,SAMSN1,immunomodulators,CSF1_response
+501,RHOC,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+502,SLC16A1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+503,SLC7A7,immunomodulators,CSF1_response
+504,VSIG4,immunomodulators,CSF1_response
+505,PDIA4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+506,SPAG17,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+507,DCK,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+508,MS4A1,cell type,LIexpression_score
+509,MMP14,immunomodulators,TGFB_score_21050467
+510,MX1,immunomodulators,Module3_IFN_score
+511,ZYX,immunomodulators,TGFB_score_21050467
+512,ITGB2,immune checkpoint,TGFB_score_21050467
+513,CD3G,cell type,LIexpression_score
+514,DVL3,immunomodulators,TGFB_score_21050467
+515,ITGA5,immunomodulators,TGFB_score_21050467
+516,POLR3K,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+517,LAPTM5,immunomodulators,CSF1_response
+518,NUP35,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+519,FBXO41,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+520,COL6A3,immunomodulators,TGFB_score_21050467
+521,MNDA,immunomodulators,CSF1_response
+522,IFI16,immunomodulators,CSF1_response
+523,RPN1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+524,H2AFZ,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+525,STK17A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+526,COL1A2,immunomodulators,TGFB_score_21050467
+527,SYK,immunomodulators,CSF1_response
+528,TMEM130,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+529,CENPN,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+530,MCM7,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+531,SNRPD1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+532,CD3D,cell type,LIexpression_score
+533,C19orf48,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+534,CTNNB1,immunomodulators,TGFB_score_21050467
+535,COPS6,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+536,COL3A1,immunomodulators,TGFB_score_21050467
+537,IL7R,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+538,CXCL10,immune checkpoint,Module3_IFN_score
+539,PGM2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+540,RNASE6,immunomodulators,CSF1_response
+541,CD52,immunomodulators,CSF1_response
+542,STRA13,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+543,CD14,immunomodulators,LIexpression_score
+544,PA2G4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+545,CDCA4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+546,LSM3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+547,HAS2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+548,C11orf24,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+549,JUNB,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+550,C3AR1,immunomodulators,CSF1_response
+551,PPIH,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+552,CD8B,cell type,LIexpression_score
+553,BSG,immunomodulators,TGFB_score_21050467
+554,COQ2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+555,JUP,immunomodulators,TGFB_score_21050467
+556,ZWILCH,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+557,MARCKSL1,immunomodulators,TGFB_score_21050467
+558,SH3BP5L,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+559,ARHGAP1,immunomodulators,TGFB_score_21050467
+560,APITD1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+561,NRIP3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+562,RUVBL1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+563,DLEU1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+564,LMNB2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+565,WSB2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+566,FAM89B,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+567,RHOG,immunomodulators,TGFB_score_21050467
+568,CD19,cell type,LIexpression_score
+569,CD163,cell type,CSF1_response
+570,FARSA,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+571,HCLS1,immunomodulators,CSF1_response
+572,PAK2,immunomodulators,TGFB_score_21050467
+573,HMHA1,immunomodulators,CSF1_response
+574,RNF41,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+575,SNRPE,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+576,MRPS16,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+577,CSF1R,immunomodulators,CSF1_response
+578,EPHB3,immunomodulators,TGFB_score_21050467
+579,SKA2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+580,LCK,immunomodulators,LIexpression_score
+581,MTA1,immunomodulators,TGFB_score_21050467
+582,UQCR10,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+583,CMSS1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+584,EFNA5,immunomodulators,TGFB_score_21050467
+585,APOO,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+586,FMNL1,immunomodulators,CSF1_response
+587,MYBL1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+588,IFIT1,immunomodulators,Module3_IFN_score
+589,IKZF1,immunomodulators,CSF1_response
+590,EVI2B,immunomodulators,CSF1_response
+591,THBS2,immunomodulators,TGFB_score_21050467
+592,LILRB4,immunomodulators,CSF1_response
+593,FNBP1,immunomodulators,CSF1_response
+594,FPR3,immunomodulators,CSF1_response
+595,ISG15,immunomodulators,Module3_IFN_score
+596,EIF4EBP1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+597,SELL,immunomodulators,CSF1_response
+598,EPHB4,immunomodulators,TGFB_score_21050467
+599,IPO4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+600,MMP1,immunomodulators,TGFB_score_21050467
+601,DAPK1,immunomodulators,CSF1_response
+602,PDLIM7,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+603,IGF2R,immunomodulators,TGFB_score_21050467
+604,PLCG2,immunomodulators,CSF1_response
+605,HYLS1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+606,MT1F,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+607,TPM2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+608,WDHD1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+609,MMP17,immunomodulators,TGFB_score_21050467
+610,CD247,immunomodulators,LIexpression_score
+611,HMGN2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+612,UBE2J1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+613,CD3E,cell type,LIexpression_score
+614,FCGR3A,immunomodulators,CSF1_response
+615,CENPW,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+616,FAM216A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+617,SAMD9,immunomodulators,Module3_IFN_score
+618,HN1L,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+619,HACD2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+620,IGLC1,immunomodulators,LIexpression_score
+621,IGHG3,immunomodulators,LIexpression_score
+622,VDAC1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+623,EMP2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+624,MYCBP,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+625,IFRD2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+626,CKLF,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+627,DHFR,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+628,LST1,immunomodulators,CSF1_response
+629,MCTS1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+630,LTB,immunomodulators,LIexpression_score
+631,RBM14,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+632,NME1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+633,LYN,immunomodulators,CSF1_response
+634,ITGB3,immunomodulators,TGFB_score_21050467
+635,SKA1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+636,MRPL12,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP
+637,CCL5,immune checkpoint,CSF1_response
+638,IFI27,immunomodulators,Module3_IFN_score
+639,LAIR1,immunomodulators,CSF1_response
+640,BLK,cell type,
+641,TNFRSF17,cell type,
+642,FCRL2,cell type,
+643,KIAA0125,cell type,
+644,PNOC,cell type,
+645,SPIB,cell type,
+646,TCL1A,cell type,
+647,CTSW,cell type,
+648,GNLY,cell type,
+649,GZMA,immune checkpoint,
+650,GZMB,cell type,
+651,GZMH,cell type,
+652,KLRB1,cell type,
+653,KLRD1,cell type,
+654,KLRK1,cell type,
+655,PRF1,immune checkpoint,
+656,NKG7,cell type,
+657,CCL13,cell type,
+658,HSD11B1,cell type,
+659,CD244,cell type,
+660,EOMES,cell type,
+661,PTGER4,cell type,
+662,MS4A4A,cell type,
+663,MS4A2,cell type,
+664,TPSAB1,cell type,
+665,CPA3,cell type,
+666,HDC,cell type,
+667,TPSB2,cell type,
+668,CSF3R,cell type,
+669,S100A12,cell type,
+670,CEACAM3,cell type,
+671,FCAR,cell type,
+672,FCGR3B,cell type,
+673,FPR1,cell type,
+674,SIGLEC5,cell type,
+675,IL21R,cell type,
+676,KIR2DL3,immune checkpoint,
+677,KIR3DL1,cell type,
+678,KIR3DL2,cell type,
+679,NCR1,cell type,
+680,XCL2,cell type,
+681,XCL1,cell type,
+682,CD6,cell type,
+683,SH2D1A,cell type,
+684,TRAT1,cell type,
+685,TBX21,cell type,
+686,FOXP3,cell type,
+687,ADORA2A,immune checkpoint,
+688,ARG1,immune checkpoint,
+689,BTLA,immune checkpoint,
+690,BTN3A1,immune checkpoint,
+691,BTN3A2,immune checkpoint,
+692,CD27,immune checkpoint,
+693,CD274,immune checkpoint,
+694,CD276,immune checkpoint,
+695,CD28,immune checkpoint,
+696,CD40,immune checkpoint,
+697,CD40LG,immune checkpoint,
+698,CD70,immune checkpoint,
+699,CD80,immune checkpoint,
+700,CTLA4,immune checkpoint,
+701,CX3CL1,immune checkpoint,
+702,CXCL9,immune checkpoint,
+703,EDNRB,immune checkpoint,
+704,ENTPD1,immune checkpoint,
+705,HAVCR2,immune checkpoint,
+706,HLA.A,antigen present,
+707,HLA.B,antigen present,
+708,HLA.C,antigen present,
+709,HMGB1,immune checkpoint,
+710,ICOS,immune checkpoint,
+711,ICOSLG,immune checkpoint,
+712,IDO1,immune checkpoint,
+713,IFNA1,immune checkpoint,
+714,IFNA2,immune checkpoint,
+715,IFNG,IFNG,
+716,IL10,immune checkpoint,
+717,IL12A,immune checkpoint,
+718,IL13,immune checkpoint,
+719,IL1A,immune checkpoint,
+720,IL1B,immune checkpoint,
+721,IL2,immune checkpoint,
+722,IL2RA,immune checkpoint,
+723,IL4,immune checkpoint,
+724,KIR2DL1,immune checkpoint,
+725,KIR2DL2,immune checkpoint,
+726,PDCD1,immune checkpoint,
+727,PDCD1LG2,immune checkpoint,
+728,SELP,immune checkpoint,
+729,SLAMF7,immune checkpoint,
+730,TGFB1,TGFbeta,
+731,TIGIT,immune checkpoint,
+732,TLR4,immune checkpoint,
+733,TNF,immune checkpoint,
+734,TNFRSF14,immune checkpoint,
+735,TNFRSF18,immune checkpoint,
+736,TNFRSF4,immune checkpoint,
+737,TNFRSF9,immune checkpoint,
+738,TNFSF4,immune checkpoint,
+739,TNFSF9,immune checkpoint,
+740,VEGFA,immune checkpoint,
+741,VEGFB,immune checkpoint,
+742,C10orf54,immune checkpoint,
+743,VTCN1,immune checkpoint,
+744,Proliferation,landscape components,
+745,Wound.Healing,landscape components,
+746,Macrophage.Regulation,landscape components,
+747,Lymphocyte.Infiltration.Signature.Score,landscape components,
+748,IFN.gamma.Response,landscape components,
+749,TGF.beta.Response,landscape components,
+750,IFNGR1,IFNG,
+751,IFNGR2,IFNG,
+752,JAK1,IFNG,
+753,JAK2,IFNG,
+754,APC,TGFbeta,
+755,CDH1,TGFbeta,
+756,CREBBP,TGFbeta,
+757,EP300,TGFbeta,
+758,MAP2K1,TGFbeta,
+759,MAP3K7,TGFbeta,
+760,MAPK3,TGFbeta,
+761,SKIL,TGFbeta,
+762,SMAD2,TGFbeta,
+763,SMAD3,TGFbeta,
+764,SMAD4,TGFbeta,
+765,SMAD7,TGFbeta,
+766,TAB1,TGFbeta,
+767,TGFB2,TGFbeta,
+768,TGFB3,TGFbeta,
+769,TGFBR1,TGFbeta,
+770,TGFBR2,TGFbeta,
+771,ZFYVE9,TGFbeta,
+772,B.cells.naive,immune infiltration,
+773,B.cells.memory,immune infiltration,
+774,Plasma.cells,immune infiltration,
+775,T.cells.CD8,immune infiltration,
+776,T.cells.CD4.naive,immune infiltration,
+777,T.cells.CD4.memory.resting,immune infiltration,
+778,T.cells.CD4.memory.activated,immune infiltration,
+779,T.cells.follicular.helper,immune infiltration,
+780,T.cells.regulatory..Tregs.,immune infiltration,
+781,T.cells.gamma.delta,immune infiltration,
+782,NK.cells.resting,immune infiltration,
+783,NK.cells.activated,immune infiltration,
+784,Monocytes,immune infiltration,
+785,Macrophages.M0,immune infiltration,
+786,Macrophages.M1,immune infiltration,
+787,Macrophages.M2,immune infiltration,
+788,Dendritic.cells.resting,immune infiltration,
+789,Dendritic.cells.activated,immune infiltration,
+790,Mast.cells.resting,immune infiltration,
+791,Mast.cells.activated,immune infiltration,
+792,Eosinophils,immune infiltration,
+793,Neutrophils,immune infiltration,

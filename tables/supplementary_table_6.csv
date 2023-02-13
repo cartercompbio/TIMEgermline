@@ -1,0 +1,3 @@
+﻿RSID,Variant,Gene,HLA rna type,MAF (minor allele frequency),Beta,A1,P-value,Distance from gene TSS (bp)
+rs9270656 ,6:32566011:A:C,HLA.DRB5,ref,0.1602,-0.588145,A,1.22E-18,-80858
+rs9491252,6:125179802:G:A,HLA.DRB5,ref,0.1042,0.242623,A,2.81E-07,

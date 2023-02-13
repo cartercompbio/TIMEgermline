@@ -1,0 +1,795 @@
+﻿IP Component,Category,Source,Filter,Extracted/Generated
+MT3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,filtered out,Generated from Pancan Atlas RNA-seq
+PLG,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,filtered out,Generated from Pancan Atlas RNA-seq
+RGS8,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,filtered out,Generated from Pancan Atlas RNA-seq
+PSMA7,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PSMC3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PSMD12,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PSMD14,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PSMD2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+RAB3B,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SAR1B,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+DBNDD1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SLC25A5,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+WDR54,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TNFRSF12A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+VTA1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PLAUR,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MNAT1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NOP16,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MRTO4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+DCBLD2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+LRRC40,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PFKP,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+ENO1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SLC25A40,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SNRPA,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SAR1A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+HSPB11,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+EIF2AK1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+ITGA6,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+EZR,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MYL6,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MFSD11,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+POLE2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MTHFD1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PNN,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MYBL2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MAPRE1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SMS,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NUTF2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NUP93,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CMC2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+COTL1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MET,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PDAP1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NUDT1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+AIMP2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+ERLIN1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+BCCIP,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MAP3K8,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+GLRX3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CBX1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PFN1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SMURF2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CORO1C,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MAGOHB,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NUP107,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+KRR1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TPI1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MCM3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+GPLD1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CPEB4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+UMPS,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+EIF4G1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SNX17,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+ID2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SDC1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PNO1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+FARSB,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MRPL37,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+WDR77,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SRM,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+UAP1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+ID3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+EBNA1BP2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+F3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+DCLRE1B,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PHF19,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+EXOSC8,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+HNRNPA2B1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SPRYD7,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NLN,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CDK2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SNRPC,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+RPP40,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NUP85,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+ALKBH7,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SNRPB,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MKKS,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NCLN,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+HNRNPR,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TUBA4A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+GNG11,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PAICS,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+FLNC,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+DUT,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TOMM40,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+LSM4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TUBG1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SNRPA1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+USPL1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+RFC3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+LOXL2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+RNF138,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NUDT15,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+BRIP1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+ACTL6A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TRA2B,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+IMP4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SMC2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+GGH,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CCBL2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CENPO,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+COX17,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+GSTCD,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+BRCA2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TPM1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PLK4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TPM3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TPRKB,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NCEH1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+LYAR,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+RMND5B,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+DYNLT1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MSN,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MRPS28,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CEP78,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CHEK1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TAGLN,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CCT5,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TEX30,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CENPU,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CENPJ,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+HAUS1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MARVELD2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PLOD2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PITPNC1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+FAM167A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TCEB1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+ADAMTS1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+RHOC,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SLC16A1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PDIA4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SPAG17,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+DCK,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+POLR3K,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NUP35,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+FBXO41,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+RPN1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+H2AFZ,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+STK17A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TMEM130,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CENPN,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MCM7,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SNRPD1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+C19orf48,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+COPS6,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+IL7R,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PGM2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+STRA13,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PA2G4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CDCA4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+LSM3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+HAS2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+C11orf24,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+JUNB,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PPIH,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+COQ2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+ZWILCH,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SH3BP5L,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+APITD1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NRIP3,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+RUVBL1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+DLEU1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+LMNB2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+WSB2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+FAM89B,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+FARSA,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+RNF41,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SNRPE,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MRPS16,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SKA2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+UQCR10,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CMSS1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+APOO,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MYBL1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+EIF4EBP1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+IPO4,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+PDLIM7,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+HYLS1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MT1F,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+TPM2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+WDHD1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+HMGN2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+UBE2J1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CENPW,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+FAM216A,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+HN1L,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+HACD2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+VDAC1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+EMP2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MYCBP,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+IFRD2,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+CKLF,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+DHFR,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MCTS1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+RBM14,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+NME1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+SKA1,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+MRPL12,immunomodulators,CHANG_CORE_SERUM_RESPONSE_UP,,Generated from Pancan Atlas RNA-seq
+B2M,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CD8A,cell type,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CTSL,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CTSS,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CYBB,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+FCER1G,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+FCGR1A,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+FCGR2B,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+FGL2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+IFI30,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+NCF2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+FGR,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+BTK,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+RUNX3,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+TNFRSF1B,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+LCP2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CELF2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+TBXAS1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CD84,cell type,CSF1_response,,Generated from Pancan Atlas RNA-seq
+OSBPL3,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+ARHGAP15,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+SLC1A3,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+SP140,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+PTPRC,cell type,CSF1_response,,Generated from Pancan Atlas RNA-seq
+FYB,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+LYZ,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CECR1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+RASSF2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+HCK,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+SAMHD1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+TNFSF13B,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CORO1A,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CD33,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+PIK3CG,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CPVL,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+RASSF4,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CCL2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CTSC,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+IL10RA,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+SELPLG,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+SH2B3,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+GNPTAB,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+LY86,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CD86,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CYTIP,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+WIPF1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+PLEK,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CD48,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+C1orf54,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+LRMP,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+TNFAIP3,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+NPC2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+ADCY7,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CCRL2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CXCR4,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+ADGRE5,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+NCKAP1L,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+EVI2A,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+APOE,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+APOC1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+MPP1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+ALOX5AP,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+GIMAP4,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+AMPD3,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+DOCK2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+NPL,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+LCP1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+GPNMB,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+TLR2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CASP1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+ARRB2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+MYO1F,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CD53,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+FCGR2A,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+LHFPL2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+IL18,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+FLI1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+MERTK,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+SAMSN1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+SLC7A7,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+VSIG4,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+LAPTM5,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+MNDA,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+IFI16,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+SYK,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+RNASE6,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CD52,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+C3AR1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CD163,cell type,CSF1_response,,Generated from Pancan Atlas RNA-seq
+HCLS1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+HMHA1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CSF1R,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+FMNL1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+IKZF1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+EVI2B,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+LILRB4,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+FNBP1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+FPR3,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+SELL,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+DAPK1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+PLCG2,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+FCGR3A,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+LST1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+LYN,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CCL5,immune checkpoint,CSF1_response,,Generated from Pancan Atlas RNA-seq
+LAIR1,immunomodulators,CSF1_response,,Generated from Pancan Atlas RNA-seq
+CD19,cell type,LIexpression_score,filtered out,Generated from Pancan Atlas RNA-seq
+IGLC1,immunomodulators,LIexpression_score,filtered out,Generated from Pancan Atlas RNA-seq
+IGHG3,immunomodulators,LIexpression_score,filtered out,Generated from Pancan Atlas RNA-seq
+CD79B,immunomodulators,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+CD37,immunomodulators,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+CD79A,immunomodulators,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+JCHAIN,immunomodulators,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+MS4A1,cell type,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+CD3G,cell type,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+CD3D,cell type,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+CD14,immunomodulators,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+CD8B,cell type,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+LCK,immunomodulators,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+CD247,immunomodulators,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+CD3E,cell type,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+LTB,immunomodulators,LIexpression_score,,Generated from Pancan Atlas RNA-seq
+TAP1,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+OAS1,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+DDX58,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+OAS3,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+OAS2,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+IFIH1,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+STAT1,IFNG,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+IFIT3,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+IFIT2,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+IFI6,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+RSAD2,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+OASL,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+RTP4,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+DDX60,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+IFI44L,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+IFI44,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+HERC6,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+HERC5,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+MX1,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+CXCL10,immune checkpoint,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+IFIT1,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+ISG15,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+SAMD9,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+IFI27,immunomodulators,Module3_IFN_score,,Generated from Pancan Atlas RNA-seq
+WNT8B,immunomodulators,TGFB_score_21050467,filtered out,Generated from Pancan Atlas RNA-seq
+MMP3,immunomodulators,TGFB_score_21050467,filtered out,Generated from Pancan Atlas RNA-seq
+ICAM1,immune checkpoint,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+ITGB5,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+THBS1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+SEMA3F,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+ITGA3,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+CD44,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+VCAN,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+TNC,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+CTNNA1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+NEO1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+TNFRSF1A,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+RHOA,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+COL16A1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+CD59,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+MMP2,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+PXN,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+LAMB1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+DSP,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+MMP11,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+TIMP1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+FGD1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+PLAT,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+ITGB8,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+SERPINE1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+DVL1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+LAMA4,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+SPARC,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+CDH6,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+ITGA4,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+FN1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+IGFBP2,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+IGFBP5,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+RND3,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+NID1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+RHOQ,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+MMP19,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+LRP1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+SMO,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+LRRC17,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+EPHB2,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+WNT2B,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+NOTCH2,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+RAC1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+ARHGDIA,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+IGFBP4,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+COL6A1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+EPHA2,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+HSPG2,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+RHOB,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+COL8A1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+IGFBP3,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+TCF7L2,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+PAK1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+MMP14,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+ZYX,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+ITGB2,immune checkpoint,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+DVL3,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+ITGA5,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+COL6A3,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+COL1A2,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+CTNNB1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+COL3A1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+BSG,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+JUP,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+MARCKSL1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+ARHGAP1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+RHOG,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+PAK2,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+EPHB3,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+MTA1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+EFNA5,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+THBS2,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+EPHB4,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+MMP1,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+IGF2R,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+MMP17,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+ITGB3,immunomodulators,TGFB_score_21050467,,Generated from Pancan Atlas RNA-seq
+CAPZA3,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+CD1A,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+CD1B,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+CLEC4M,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+CTSE,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+HLA.DRB3,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+HLA.DRB4,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+KIF2B,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+KIF5A,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+MARCHF1,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+PSMA8,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+PSMB11,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+RAB3C,antigen present,,filtered out,Generated from Pancan Atlas RNA-seq
+TNFRSF17,cell type,,filtered out,Generated from Pancan Atlas RNA-seq
+FCRL2,cell type,,filtered out,Generated from Pancan Atlas RNA-seq
+KIAA0125,cell type,,filtered out,Generated from Pancan Atlas RNA-seq
+TCL1A,cell type,,filtered out,Generated from Pancan Atlas RNA-seq
+MS4A2,cell type,,filtered out,Generated from Pancan Atlas RNA-seq
+S100A12,cell type,,filtered out,Generated from Pancan Atlas RNA-seq
+CEACAM3,cell type,,filtered out,Generated from Pancan Atlas RNA-seq
+FCAR,cell type,,filtered out,Generated from Pancan Atlas RNA-seq
+KIR2DL3,immune checkpoint,,filtered out,Generated from Pancan Atlas RNA-seq
+KIR3DL1,cell type,,filtered out,Generated from Pancan Atlas RNA-seq
+KIR3DL2,cell type,,filtered out,Generated from Pancan Atlas RNA-seq
+NCR1,cell type,,filtered out,Generated from Pancan Atlas RNA-seq
+ARG1,immune checkpoint,,filtered out,Generated from Pancan Atlas RNA-seq
+IFNA1,immune checkpoint,,filtered out,Generated from Pancan Atlas RNA-seq
+IFNA2,immune checkpoint,,filtered out,Generated from Pancan Atlas RNA-seq
+IFNG,IFNG,,filtered out,Generated from Pancan Atlas RNA-seq
+IL13,immune checkpoint,,filtered out,Generated from Pancan Atlas RNA-seq
+IL2,immune checkpoint,,filtered out,Generated from Pancan Atlas RNA-seq
+IL4,immune checkpoint,,filtered out,Generated from Pancan Atlas RNA-seq
+KIR2DL1,immune checkpoint,,filtered out,Generated from Pancan Atlas RNA-seq
+KIR2DL2,immune checkpoint,,filtered out,Generated from Pancan Atlas RNA-seq
+B.cells.naive,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+B.cells.memory,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+Plasma.cells,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+T.cells.CD4.naive,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+T.cells.CD4.memory.resting,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+T.cells.CD4.memory.activated,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+T.cells.regulatory..Tregs.,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+T.cells.gamma.delta,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+NK.cells.resting,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+NK.cells.activated,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+Monocytes,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+Macrophages.M0,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+Macrophages.M1,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+Dendritic.cells.resting,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+Dendritic.cells.activated,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+Mast.cells.resting,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+Mast.cells.activated,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+Eosinophils,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+Neutrophils,immune infiltration,,filtered out,Generated from Pancan Atlas RNA-seq
+ACE,antigen present,,,Generated from Pancan Atlas RNA-seq
+ACTR10,antigen present,,,Generated from Pancan Atlas RNA-seq
+ACTR1A,antigen present,,,Generated from Pancan Atlas RNA-seq
+ACTR1B,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP1B1,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP1G1,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP1M1,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP1M2,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP1S1,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP1S2,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP1S3,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP2A1,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP2A2,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP2B1,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP2M1,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP2S1,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP3B1,antigen present,,,Generated from Pancan Atlas RNA-seq
+AP3D1,antigen present,,,Generated from Pancan Atlas RNA-seq
+ARF1,antigen present,,,Generated from Pancan Atlas RNA-seq
+ATG5,antigen present,,,Generated from Pancan Atlas RNA-seq
+AZGP1,antigen present,,,Generated from Pancan Atlas RNA-seq
+BCAP31,antigen present,,,Generated from Pancan Atlas RNA-seq
+CALR,antigen present,,,Generated from Pancan Atlas RNA-seq
+CANX,antigen present,,,Generated from Pancan Atlas RNA-seq
+CAPZA1,antigen present,,,Generated from Pancan Atlas RNA-seq
+CAPZA2,antigen present,,,Generated from Pancan Atlas RNA-seq
+CAPZB,antigen present,,,Generated from Pancan Atlas RNA-seq
+CCL19,antigen present,,,Generated from Pancan Atlas RNA-seq
+CCL21,antigen present,,,Generated from Pancan Atlas RNA-seq
+CCR7,antigen present,,,Generated from Pancan Atlas RNA-seq
+CD1C,antigen present,,,Generated from Pancan Atlas RNA-seq
+CD1D,antigen present,,,Generated from Pancan Atlas RNA-seq
+CD1E,antigen present,,,Generated from Pancan Atlas RNA-seq
+CD207,antigen present,,,Generated from Pancan Atlas RNA-seq
+CD209,cell type,,,Generated from Pancan Atlas RNA-seq
+CD36,antigen present,,,Generated from Pancan Atlas RNA-seq
+CD68,cell type,,,Generated from Pancan Atlas RNA-seq
+CD74,antigen present,,,Generated from Pancan Atlas RNA-seq
+CENPE,antigen present,,,Generated from Pancan Atlas RNA-seq
+CHUK,antigen present,,,Generated from Pancan Atlas RNA-seq
+CLEC4A,antigen present,,,Generated from Pancan Atlas RNA-seq
+CLTA,antigen present,,,Generated from Pancan Atlas RNA-seq
+CLTC,antigen present,,,Generated from Pancan Atlas RNA-seq
+CTSD,antigen present,,,Generated from Pancan Atlas RNA-seq
+CTSF,antigen present,,,Generated from Pancan Atlas RNA-seq
+CTSH,antigen present,,,Generated from Pancan Atlas RNA-seq
+CTSV,antigen present,,,Generated from Pancan Atlas RNA-seq
+CYBA,antigen present,,,Generated from Pancan Atlas RNA-seq
+DCTN1,antigen present,,,Generated from Pancan Atlas RNA-seq
+DCTN2,antigen present,,,Generated from Pancan Atlas RNA-seq
+DCTN3,antigen present,,,Generated from Pancan Atlas RNA-seq
+DCTN4,antigen present,,,Generated from Pancan Atlas RNA-seq
+DCTN5,antigen present,,,Generated from Pancan Atlas RNA-seq
+DCTN6,antigen present,,,Generated from Pancan Atlas RNA-seq
+DNM2,antigen present,,,Generated from Pancan Atlas RNA-seq
+DYNC1H1,antigen present,,,Generated from Pancan Atlas RNA-seq
+DYNC1I1,antigen present,,,Generated from Pancan Atlas RNA-seq
+DYNC1I2,antigen present,,,Generated from Pancan Atlas RNA-seq
+DYNC1LI1,antigen present,,,Generated from Pancan Atlas RNA-seq
+DYNC1LI2,antigen present,,,Generated from Pancan Atlas RNA-seq
+DYNLL1,antigen present,,,Generated from Pancan Atlas RNA-seq
+DYNLL2,antigen present,,,Generated from Pancan Atlas RNA-seq
+ERAP1,antigen present,,,Generated from Pancan Atlas RNA-seq
+ERAP2,antigen present,,,Generated from Pancan Atlas RNA-seq
+FCGR1B,antigen present,,,Generated from Pancan Atlas RNA-seq
+FCGRT,antigen present,,,Generated from Pancan Atlas RNA-seq
+HFE,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DMA,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DMB,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DOA,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DOB,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DPA1,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DPB1,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DQA1,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DQA2,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DQB1,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DQB2,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DRA,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DRB1,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.DRB5,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.E,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.F,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.G,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.H,antigen present,,,Generated from Pancan Atlas RNA-seq
+IDE,antigen present,,,Generated from Pancan Atlas RNA-seq
+IKBKB,antigen present,,,Generated from Pancan Atlas RNA-seq
+IKBKG,antigen present,,,Generated from Pancan Atlas RNA-seq
+ITGAV,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF11,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF15,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF18A,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF22,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF23,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF26A,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF2A,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF2C,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF3A,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF3B,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF3C,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF4A,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIF4B,antigen present,,,Generated from Pancan Atlas RNA-seq
+KIFAP3,antigen present,,,Generated from Pancan Atlas RNA-seq
+KLC1,antigen present,,,Generated from Pancan Atlas RNA-seq
+KLC2,antigen present,,,Generated from Pancan Atlas RNA-seq
+LAG3,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+LGMN,antigen present,,,Generated from Pancan Atlas RNA-seq
+LILRB2,antigen present,,,Generated from Pancan Atlas RNA-seq
+LNPEP,antigen present,,,Generated from Pancan Atlas RNA-seq
+MICA,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+MICB,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+MR1,antigen present,,,Generated from Pancan Atlas RNA-seq
+NCF1,antigen present,,,Generated from Pancan Atlas RNA-seq
+NCF4,antigen present,,,Generated from Pancan Atlas RNA-seq
+NOD1,antigen present,,,Generated from Pancan Atlas RNA-seq
+NOD2,antigen present,,,Generated from Pancan Atlas RNA-seq
+OSBPL1A,antigen present,,,Generated from Pancan Atlas RNA-seq
+PDIA3,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMA1,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMA2,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMA3,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMA4,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMA5,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMA6,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMB1,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMB10,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMB2,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMB3,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMB4,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMB5,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMB6,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMB7,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMB8,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMB9,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMC1,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMC2,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMC4,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMC5,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMC6,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMD1,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMD10,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMD11,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMD13,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMD3,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMD4,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMD5,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMD6,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMD7,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMD8,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMD9,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSME1,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSME2,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSME3,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSME4,antigen present,,,Generated from Pancan Atlas RNA-seq
+PSMF1,antigen present,,,Generated from Pancan Atlas RNA-seq
+PYCARD,antigen present,,,Generated from Pancan Atlas RNA-seq
+RAB10,antigen present,,,Generated from Pancan Atlas RNA-seq
+RAB27A,antigen present,,,Generated from Pancan Atlas RNA-seq
+RAB32,antigen present,,,Generated from Pancan Atlas RNA-seq
+RAB33A,antigen present,,,Generated from Pancan Atlas RNA-seq
+RAB34,antigen present,,,Generated from Pancan Atlas RNA-seq
+RAB35,antigen present,,,Generated from Pancan Atlas RNA-seq
+RAB4A,antigen present,,,Generated from Pancan Atlas RNA-seq
+RAB5B,antigen present,,,Generated from Pancan Atlas RNA-seq
+RAB6A,antigen present,,,Generated from Pancan Atlas RNA-seq
+RAB7A,antigen present,,,Generated from Pancan Atlas RNA-seq
+RAB8B,antigen present,,,Generated from Pancan Atlas RNA-seq
+RACGAP1,antigen present,,,Generated from Pancan Atlas RNA-seq
+RELB,antigen present,,,Generated from Pancan Atlas RNA-seq
+RFTN1,antigen present,,,Generated from Pancan Atlas RNA-seq
+RILP,antigen present,,,Generated from Pancan Atlas RNA-seq
+SEC13,antigen present,,,Generated from Pancan Atlas RNA-seq
+SEC22B,antigen present,,,Generated from Pancan Atlas RNA-seq
+SEC23A,antigen present,,,Generated from Pancan Atlas RNA-seq
+SEC24A,antigen present,,,Generated from Pancan Atlas RNA-seq
+SEC24B,antigen present,,,Generated from Pancan Atlas RNA-seq
+SEC24C,antigen present,,,Generated from Pancan Atlas RNA-seq
+SEC24D,antigen present,,,Generated from Pancan Atlas RNA-seq
+SEC31A,antigen present,,,Generated from Pancan Atlas RNA-seq
+SH3GL2,antigen present,,,Generated from Pancan Atlas RNA-seq
+SLC11A1,antigen present,,,Generated from Pancan Atlas RNA-seq
+SNAP23,antigen present,,,Generated from Pancan Atlas RNA-seq
+SPTBN2,antigen present,,,Generated from Pancan Atlas RNA-seq
+TAP2,antigen present,,,Generated from Pancan Atlas RNA-seq
+TAPBP,antigen present,,,Generated from Pancan Atlas RNA-seq
+TAPBPL,antigen present,,,Generated from Pancan Atlas RNA-seq
+TRAF6,antigen present,,,Generated from Pancan Atlas RNA-seq
+TREM2,antigen present,,,Generated from Pancan Atlas RNA-seq
+TREX1,antigen present,,,Generated from Pancan Atlas RNA-seq
+VAMP3,antigen present,,,Generated from Pancan Atlas RNA-seq
+VAMP8,antigen present,,,Generated from Pancan Atlas RNA-seq
+WAS,antigen present,,,Generated from Pancan Atlas RNA-seq
+YTHDF1,antigen present,,,Generated from Pancan Atlas RNA-seq
+1-Mar,antigen present,,,Generated from Pancan Atlas RNA-seq
+BLK,cell type,,,Generated from Pancan Atlas RNA-seq
+PNOC,cell type,,,Generated from Pancan Atlas RNA-seq
+SPIB,cell type,,,Generated from Pancan Atlas RNA-seq
+CTSW,cell type,,,Generated from Pancan Atlas RNA-seq
+GNLY,cell type,,,Generated from Pancan Atlas RNA-seq
+GZMA,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+GZMB,cell type,,,Generated from Pancan Atlas RNA-seq
+GZMH,cell type,,,Generated from Pancan Atlas RNA-seq
+KLRB1,cell type,,,Generated from Pancan Atlas RNA-seq
+KLRD1,cell type,,,Generated from Pancan Atlas RNA-seq
+KLRK1,cell type,,,Generated from Pancan Atlas RNA-seq
+PRF1,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+NKG7,cell type,,,Generated from Pancan Atlas RNA-seq
+CCL13,cell type,,,Generated from Pancan Atlas RNA-seq
+HSD11B1,cell type,,,Generated from Pancan Atlas RNA-seq
+CD244,cell type,,,Generated from Pancan Atlas RNA-seq
+EOMES,cell type,,,Generated from Pancan Atlas RNA-seq
+PTGER4,cell type,,,Generated from Pancan Atlas RNA-seq
+MS4A4A,cell type,,,Generated from Pancan Atlas RNA-seq
+TPSAB1,cell type,,,Generated from Pancan Atlas RNA-seq
+CPA3,cell type,,,Generated from Pancan Atlas RNA-seq
+HDC,cell type,,,Generated from Pancan Atlas RNA-seq
+TPSB2,cell type,,,Generated from Pancan Atlas RNA-seq
+CSF3R,cell type,,,Generated from Pancan Atlas RNA-seq
+FCGR3B,cell type,,,Generated from Pancan Atlas RNA-seq
+FPR1,cell type,,,Generated from Pancan Atlas RNA-seq
+SIGLEC5,cell type,,,Generated from Pancan Atlas RNA-seq
+IL21R,cell type,,,Generated from Pancan Atlas RNA-seq
+XCL2,cell type,,,Generated from Pancan Atlas RNA-seq
+XCL1,cell type,,,Generated from Pancan Atlas RNA-seq
+CD6,cell type,,,Generated from Pancan Atlas RNA-seq
+SH2D1A,cell type,,,Generated from Pancan Atlas RNA-seq
+TRAT1,cell type,,,Generated from Pancan Atlas RNA-seq
+TBX21,cell type,,,Generated from Pancan Atlas RNA-seq
+FOXP3,cell type,,,Generated from Pancan Atlas RNA-seq
+ADORA2A,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+BTLA,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+BTN3A1,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+BTN3A2,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+CD27,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+CD274,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+CD276,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+CD28,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+CD40,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+CD40LG,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+CD70,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+CD80,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+CTLA4,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+CX3CL1,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+CXCL9,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+EDNRB,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+ENTPD1,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+HAVCR2,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+HLA.A,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.B,antigen present,,,Generated from Pancan Atlas RNA-seq
+HLA.C,antigen present,,,Generated from Pancan Atlas RNA-seq
+HMGB1,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+ICOS,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+ICOSLG,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+IDO1,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+IL10,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+IL12A,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+IL1A,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+IL1B,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+IL2RA,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+PDCD1,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+PDCD1LG2,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+SELP,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+SLAMF7,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+TGFB1,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+TIGIT,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+TLR4,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+TNF,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+TNFRSF14,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+TNFRSF18,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+TNFRSF4,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+TNFRSF9,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+TNFSF4,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+TNFSF9,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+VEGFA,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+VEGFB,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+C10orf54,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+VTCN1,immune checkpoint,,,Generated from Pancan Atlas RNA-seq
+Proliferation,landscape components,,,Extracted from Thorsson et al.
+Wound.Healing,landscape components,,,Extracted from Thorsson et al.
+Macrophage.Regulation,landscape components,,,Extracted from Thorsson et al.
+Lymphocyte.Infiltration.Signature.Score,landscape components,,,Extracted from Thorsson et al.
+IFN.gamma.Response,landscape components,,,Extracted from Thorsson et al.
+TGF.beta.Response,landscape components,,,Extracted from Thorsson et al.
+IFNGR1,IFNG,,,Generated from Pancan Atlas RNA-seq
+IFNGR2,IFNG,,,Generated from Pancan Atlas RNA-seq
+JAK1,IFNG,,,Generated from Pancan Atlas RNA-seq
+JAK2,IFNG,,,Generated from Pancan Atlas RNA-seq
+APC,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+CDH1,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+CREBBP,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+EP300,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+MAP2K1,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+MAP3K7,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+MAPK3,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+SKIL,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+SMAD2,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+SMAD3,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+SMAD4,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+SMAD7,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+TAB1,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+TGFB2,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+TGFB3,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+TGFBR1,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+TGFBR2,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+ZFYVE9,TGFbeta,,,Generated from Pancan Atlas RNA-seq
+T.cells.CD8,immune infiltration,,,Generated from Pancan Atlas RNA-seq
+T.cells.follicular.helper,immune infiltration,,,Generated from Pancan Atlas RNA-seq
+Macrophages.M2,immune infiltration,,,Generated from Pancan Atlas RNA-seq

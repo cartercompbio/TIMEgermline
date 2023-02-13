@@ -1,0 +1,17 @@
+﻿Gene,Best SNP agreement across human cohorts,Potential for inhibition (+ indicates inhibition may improve response),Small molecular inhibitor available,Already a high priority immune target in solid tumors
+CTSS,------,+-++,Yes,No
+TREX1,----+-,+++-,First in 2021,Yes
+DHFR,------,—+,Yes,Yes
+ERAP1,++++++,–++,First in 2022,Yes
+ERAP2,------,—-,First in 2022,Yes
+GPLD1,+++++,+-++,MAB only,No
+DYNLT1,------,++++,No,No
+Tfh infiltrates,++++++,NA,N/A,Yes
+PSMD11,--+-++,-+++,Yes,No
+CTSW,-+-++-,—-,No,Yes
+FAM216A,++-+++,–+-,No,No
+LYZ,+--+++,++++,No,Yes
+C3AR1,--+---,–++,Yes,Yes
+DCTN5,++++++,—-,No,No
+DBNDD1,+-+++-,+--+,No,No
+FPR1,++++++,—+,Yes,Yes
