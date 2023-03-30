@@ -20,8 +20,8 @@ SCHEME   SAMPLESIZE
 # To help identify allele flips, it can be useful to track
 # allele frequencies in the meta-analysis. To enable this
 # capability, uncomment the following two lines.
-AVERAGEFREQ ON
-MINMAXFREQ ON
+# AVERAGEFREQ ON
+# MINMAXFREQ ON
 
 # To restric meta-analysis to two previously reported SNPs
 # and summarize study specific results, uncomment the two

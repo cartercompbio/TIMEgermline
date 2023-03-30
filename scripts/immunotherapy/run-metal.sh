@@ -11,17 +11,12 @@ echo $HOSTNAME
 
 date
 
-phenos=(response_crist_sd response_crist_sd_surv response_crist_partial response_crist_complete)
-pheno=${phenos[$SLURM_ARRAY_TASK_ID-1]}
 
+pheno=response_crist_sd 
+test=v1.effect
 
-# for test in sample.size effect sample.size.no.liu effect.no.liu
-for test in v1.sample.size v1.sample.size.no.weight
-
-do
-
-out=/cellar/users/mpagadal/projects/germline-immune3/data/icb-response/metal/output/$pheno/$test
-in=/cellar/users/mpagadal/projects/germline-immune3/data/icb-response/metal/input/$pheno
+out=/cellar/users/mpagadal/projects/germline-immune/data/icb-response/metal/output/$pheno/$test
+in=/cellar/users/mpagadal/projects/germline-immune/data/icb-response/metal/input/$pheno
 script=/cellar/users/mpagadal/projects/germline-immune3/scripts
 
 mkdir -p $out

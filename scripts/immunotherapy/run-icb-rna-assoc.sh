@@ -34,7 +34,6 @@ date
 GENO=/cellar/controlled/users/mpagadal/immunotherapy-trials/normal_wxs/imputedv2_all/imputed
 PHENO=/cellar/controlled/users/mpagadal/immunotherapy-trials/normal_wxs/phenos/pheno.rna.cibersortx.rank.norm.study.tsv
 COVAR=/cellar/controlled/users/mpagadal/immunotherapy-trials/normal_wxs/covar/total.cov.age.sex.study.pc.infiltrate2.txt
-#EXTRACT=/cellar/users/mpagadal/projects/germline-immune3/snp-tables/extract-icb-fdr-50.txt
 EXTRACT=/cellar/users/mpagadal/projects/germline-immune/snp-tables/extract.icb.txt
 # OUT=/cellar/users/mpagadal/projects/germline-immune/data/icb-associations
 OUT=/cellar/users/mpagadal/projects/germline-immune/data/icb-rna-associations

@@ -16,12 +16,9 @@ geno=/nrnb/users/mpagadal/immunotherapy-trials/normal_wxs/imputedv2_all/imputed
 pheno=/nrnb/users/mpagadal/immunotherapy-trials/normal_wxs/phenos/total.pheno.responder.v2.txt
 patient=/cellar/users/mpagadal/immunotherapy-trials/patients/$study.txt
 cov=/nrnb/users/mpagadal/immunotherapy-trials/normal_wxs/covar/total.cov.age.sex.study.v2.txt
-# extract=/cellar/users/mpagadal/projects/germline-immune3/snp-tables/extract-all-time-variants-proxy.txt
-extract=/cellar/users/mpagadal/projects/germline-immune3/snp-tables/extract-rand-icb-fdr-50.txt
-
-for pheno_col in response_crist_sd response_crist_sd_surv response_crist_partial response_crist_complete
-
-do
+# extract=/cellar/users/mpagadal/projects/germline-immune/snp-tables/extract-all-time-variants-proxy.txt
+extract=/cellar/users/mpagadal/projects/germline-immune/snp-tables/extract-rand-icb-fdr-50.txt
+pheno_col=response_crist_sd
 
 out=/cellar/users/mpagadal/projects/germline-immune3/data/prsice/rand_11_icb_variants/$pheno_col
 mkdir -p $out
@@ -31,7 +28,5 @@ cmd="Rscript $prsicer -b $base --snp ID --target $geno --score sum --pheno $phen
 echo $cmd
 $cmd
 
-
-done
 
 date

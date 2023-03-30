@@ -10,7 +10,7 @@ echo $HOSTNAME
 
 date
 
-phenos=(hugo miao riaz rizvi snyder vanallen crist_melanoma crist_hnscc liu)
+phenos=(hugo miao riaz rizvi snyder vanallen)
 pheno=${phenos[$SLURM_ARRAY_TASK_ID-1]}
 
 # Covariate C1-10, Age, Sex
@@ -23,13 +23,8 @@ COVAR=/cellar/controlled/users/mpagadal/immunotherapy-trials/normal_wxs/covar/to
 DIR=/cellar/users/mpagadal/projects/germline-immune3/data/icb-response
 KEEP=/cellar/users/mpagadal/immunotherapy-trials/patients/$pheno.txt
 
-for y in response_crist_sd response_crist_sd_surv response_crist_partial response_crist_complete
-
-do
-
-
 # FULL SNPs
-
+y=response_crist_sd
 OUT=$DIR/$y
 mkdir $OUT
 
@@ -39,9 +34,6 @@ mkdir $OUT
 
 head -1 $OUT/$pheno.$y.glm.logistic.hybrid > $OUT/$pheno.assoc.logistic.add
 awk '{ if ($8 == "ADD") { print $0} }' $OUT/$pheno.$y.glm.logistic.hybrid >> $OUT/$pheno.assoc.logistic.add
-
-
-done
 
 
 date
