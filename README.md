@@ -1,5 +1,7 @@
 [![MIT License][license-shield]][license-url]
 
+[![DOI](https://zenodo.org/badge/560047095.svg)](https://zenodo.org/badge/latestdoi/560047095)
+
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/luisvalesilva/multisurv/blob/master/LICENSE
 
